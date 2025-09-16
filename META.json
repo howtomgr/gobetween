@@ -1,0 +1,61 @@
+{
+  "category": "load-balancers",
+  "created_date": "2025-09-15T22:48:57.656787",
+  "default_ports": [
+    80,
+    443,
+    8888
+  ],
+  "dependencies": [],
+  "description": "gobetween is a free and open-source load balancer. Gobetween provides modern, minimalistic load balancer",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/load-balancers/gobetween",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/load-balancers/gobetween",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.656828",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "gobetween",
+  "repository_url": "https://github.com/howtomgr/gobetween",
+  "spec_version": "2.0",
+  "subcategory": "load-balancers",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "load-balancers",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "gobetween Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/load-balancers/gobetween"
+}
